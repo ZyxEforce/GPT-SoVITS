@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+SubFix.egg-info/PKG-INFO
+SubFix.egg-info/SOURCES.txt
+SubFix.egg-info/dependency_links.txt
+SubFix.egg-info/entry_points.txt
+SubFix.egg-info/requires.txt
+SubFix.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+librosa
+gradio
+numpy
+soundfile
+torchaudio
+transformers
+openai-whisper
